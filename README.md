@@ -1,1 +1,1 @@
-# pythonproject_blackjack
+# python_project_blackjack
